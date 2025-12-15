@@ -1,0 +1,5 @@
+Date,Movie_Title,Genre_Filter,Rating_Filter,Year_Filter,Predicted_Rating
+2025-07-20 10:37:42,Avatar,Animation,2.5,2015,4.7
+2025-07-20 10:38:08,Iron Man 2,All Genres,8.0,2017,0.0
+2025-07-20 10:38:12,Iron Man 2,All Genres,8.0,2015,0.0
+2025-07-20 10:38:15,Iron Man 2,All Genres,6.0,2015,4.7
